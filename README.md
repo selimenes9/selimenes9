@@ -12,10 +12,11 @@ Methodology:Responsive Web Design (Mobile-First), Cross-Browser Compatibility
 Tools & Workflow:Git/GitHub, VS Code, Asset Optimization
 Current Stack Expansion:JavaScript (ES6+), Modern Frameworks
 
-Contribution & Growth
-<img src="https://github-readme-stats.vercel.app/api?username=selimenes9&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selimenes9&layout=compact&theme=tokyonight&hide_border=true" width="400" />
+### 📈 Contribution & Growth
+
+[![Selim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=selimenes9&show_icons=true&theme=tokyonight)](https://github.com/selimenes9)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selimenes9&layout=compact&theme=tokyonight)](https://github.com/selimenes9)
 - 📧 Email:[selimmenes787@gmail.com](mailto:selimmenes787@gmail.com)
 - 📍 Location:Istanbul, Turkey
 
