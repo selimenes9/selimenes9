@@ -23,8 +23,6 @@ Stack & Tools
 
 
 
-### 📊 Activity
-(İstatistik grafikleri GitHub tarafından onaylandığında buraya otomatik gelecektir, şimdilik bu şık rozetlerle devam edelim!)
 
 - 📧 Email:[selimmenes787@gmail.com](mailto:selimmenes787@gmail.com)
 - 📍 Location:Istanbul, Turkey
