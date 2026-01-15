@@ -14,8 +14,8 @@ Current Stack Expansion:JavaScript (ES6+), Modern Frameworks
 
 Contribution & Growth
 ![Selim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=selimenes9&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selimenes9&layout=compact&theme=tokyonight&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selimenes9&layout=compact&theme=tokyonight&hide_border=true)
 
 
 Connect with Me
