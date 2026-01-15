@@ -12,11 +12,20 @@ Methodology:Responsive Web Design (Mobile-First), Cross-Browser Compatibility
 Tools & Workflow:Git/GitHub, VS Code, Asset Optimization
 Current Stack Expansion:JavaScript (ES6+), Modern Frameworks
 
-### 📈 Contribution & Growth
 
-[![Selim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=selimenes9&show_icons=true&theme=tokyonight)](https://github.com/selimenes9)
+Stack & Tools
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selimenes9&layout=compact&theme=tokyonight)](https://github.com/selimenes9)
+
+
+### 📊 Activity
+(İstatistik grafikleri GitHub tarafından onaylandığında buraya otomatik gelecektir, şimdilik bu şık rozetlerle devam edelim!)
+
 - 📧 Email:[selimmenes787@gmail.com](mailto:selimmenes787@gmail.com)
 - 📍 Location:Istanbul, Turkey
 
